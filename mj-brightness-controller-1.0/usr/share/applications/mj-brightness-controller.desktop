@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MJ Brightness Controller
+Comment=Control external monitor brightness
+Exec=mj-brightness-controller
+Icon=/usr/share/icons/mj-brightness-controller.png
+Terminal=false
+Type=Application
+Categories=Utility;
+
+
